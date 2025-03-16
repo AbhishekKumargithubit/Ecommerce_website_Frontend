@@ -1,4 +1,4 @@
-# MERN E-COMMERCE SERVER 
+# MERN E-COMMERCE SITE
 
 Hi! My name is **Abhishek Kumar** I Have Created an E-commerce Site
 
